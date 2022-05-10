@@ -1,0 +1,32 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(39, 105, 39);
+  background-image: url("https://t4.ftcdn.net/jpg/00/93/36/49/360_F_93364974_eoos8QGsa9CzTa5hGRRL6EutXMSKgdOA.jpg");
+  background-size: cover;
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  color: goldenrod;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 9.375rem;
+  padding-block: 0.5rem;
+  background-color: goldenrod;
+  font-weight: bolder;
+  border: none;
+  border-radius: 0.2rem;
+  margin-inline: 2rem;
+  margin-bottom: 0.5rem;
+}
